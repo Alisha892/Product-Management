@@ -1,0 +1,29 @@
+--- SALES INVOICE ---
+Customer: aa
+Date: 2025-5-20 7:38:2
+============================
+ID: 1
+Name: Vitamin C Serum
+Qty: 33
+Free: 11
+Price: 2000.0
+Item Total: 66000.0
+
+ID: 2
+Name: Skin Cleanser
+Qty: 12
+Free: 4
+Price: 560.0
+Item Total: 6720.0
+
+============================
+Total Quantity: 45
+Subtotal: 72720.0
+VAT (13%): 9453.6
+Total (incl. VAT): 82173.6
+============================
+
+--- Updated Product Stock ---
+ID: 1, Name: Vitamin C Serum, Stock: 189
+ID: 2, Name: Skin Cleanser, Stock: 105
+ID: 3, Name: Sunscreen, Stock: 200

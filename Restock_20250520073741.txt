@@ -1,0 +1,23 @@
+--- RESTOCK INVOICE ---
+Supplier: a
+Date: 2025-5-20 7:37:41
+============================
+ID: 1
+Name: Vitamin C Serum
+Qty: 15
+
+ID: 2
+Name: Skin Cleanser
+Qty: 25
+
+============================
+Total Quantity: 40
+Subtotal: 22000
+VAT (13%): 2860.0
+Total (incl. VAT): 24860.0
+============================
+
+--- Updated Product Stock ---
+ID: 1, Name: Vitamin C Serum, Stock: 233
+ID: 2, Name: Skin Cleanser, Stock: 121
+ID: 3, Name: Sunscreen, Stock: 200
